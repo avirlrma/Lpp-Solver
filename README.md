@@ -1,1 +1,1 @@
-# LPP-solver
+# LPP Solver
