@@ -14,6 +14,11 @@ It uses the graphics.h library of C to create graphics.It supports constraints o
 + Input the number of constraints.
 + Input the coefficents of constraints.
 
-## Screenshot : [screen.png]
+## Screenshot : 
+![alt text](https://github.com/Aviral1701/LPP-solver/blob/master/screen.png "Screenshot")
+
+## To Do
++ Add suport of "greater than equal to" type constraints.
+
 
 
